@@ -1,0 +1,4 @@
+matplotlib==3.9.1
+numpy==1.26.4
+Pillow==8.3.2
+trimesh==3.23.5
